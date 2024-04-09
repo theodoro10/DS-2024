@@ -1,0 +1,113 @@
+<mxfile host="app.diagrams.net" modified="2024-02-27T14:19:51.442Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="bKk9couV-fcHUodPt8rA" version="23.1.7" type="device">
+  <diagram name="Página-1" id="RA6ZiRdcHMhUTWYAEr8d">
+    <mxGraphModel dx="1400" dy="1922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MAZj7-Cw5p4Za4I1SEBb-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="MAZj7-Cw5p4Za4I1SEBb-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="385" as="targetPoint" />
+            <mxPoint x="300" y="247.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MAZj7-Cw5p4Za4I1SEBb-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MAZj7-Cw5p4Za4I1SEBb-3" target="MAZj7-Cw5p4Za4I1SEBb-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MAZj7-Cw5p4Za4I1SEBb-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="MAZj7-Cw5p4Za4I1SEBb-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="40" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="353" y="146" />
+              <mxPoint x="191" y="146" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MAZj7-Cw5p4Za4I1SEBb-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="MAZj7-Cw5p4Za4I1SEBb-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="-180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MAZj7-Cw5p4Za4I1SEBb-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MAZj7-Cw5p4Za4I1SEBb-3" target="MAZj7-Cw5p4Za4I1SEBb-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="405" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MAZj7-Cw5p4Za4I1SEBb-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="300" y="220" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="MAZj7-Cw5p4Za4I1SEBb-4" value="&lt;font style=&quot;vertical-align: inherit; font-size: 20px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 20px;&quot;&gt;Arquitetura de Redes com IoT&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="331.25" y="230" width="147.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MAZj7-Cw5p4Za4I1SEBb-6" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
+          <mxGeometry x="478.75" y="260" width="22.14" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MAZj7-Cw5p4Za4I1SEBb-10" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="190" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="MAZj7-Cw5p4Za4I1SEBb-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="MAZj7-Cw5p4Za4I1SEBb-13" target="MAZj7-Cw5p4Za4I1SEBb-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MAZj7-Cw5p4Za4I1SEBb-13" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;direction=east;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="550" y="40" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="MAZj7-Cw5p4Za4I1SEBb-14" value="&lt;font style=&quot;vertical-align: inherit; font-size: 13px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 13px;&quot;&gt;O que é Rede Computadores?&lt;/font&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=13;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="595" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MAZj7-Cw5p4Za4I1SEBb-15" value="São quando dois ou mais&amp;nbsp;&lt;br style=&quot;font-size: 12px;&quot;&gt;computadores estão conectados&lt;br style=&quot;font-size: 12px;&quot;&gt;a uma rede." style="text;strokeColor=none;fillColor=none;html=1;fontSize=12;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="595" y="80" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MAZj7-Cw5p4Za4I1SEBb-22" value="" style="rounded=1;html=1;whiteSpace=wrap;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="70" y="390" width="210" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="MAZj7-Cw5p4Za4I1SEBb-27" value="&lt;h1 style=&quot;font-size: 18px;&quot;&gt;Arquiteturas de Redes e seus tipos&lt;/h1&gt;&lt;p&gt;&lt;b&gt;Ponto-a-Ponto - Uso doméstico e de empresas pequenas, não precisa de servidor central.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Cliente-Servidor - Podem atender a vários clientes em conjunto, o servidor pode oferecer uma ampla variedade de serviços como armazenamento de dados e etc.&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="396" width="202" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="MAZj7-Cw5p4Za4I1SEBb-33" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="1">
+          <mxGeometry x="550" y="380" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MAZj7-Cw5p4Za4I1SEBb-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MAZj7-Cw5p4Za4I1SEBb-34" target="MAZj7-Cw5p4Za4I1SEBb-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MAZj7-Cw5p4Za4I1SEBb-34" value="&lt;b style=&quot;&quot;&gt;Classificação das Redes e seus tipos&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="385" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MAZj7-Cw5p4Za4I1SEBb-36" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://slideplayer.com.br/slide/12693886/76/images/26/Classifica%C3%A7%C3%A3o+das+Redes.jpg;" vertex="1" parent="1">
+          <mxGeometry x="511.65999999999997" y="690" width="306.67" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="MAZj7-Cw5p4Za4I1SEBb-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MAZj7-Cw5p4Za4I1SEBb-40" target="MAZj7-Cw5p4Za4I1SEBb-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MAZj7-Cw5p4Za4I1SEBb-40" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="545" y="445" width="250" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="MAZj7-Cw5p4Za4I1SEBb-43" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Essas classificações incluem Redes Pessoais (PANs), Redes Locais (LANs), Redes Metropolitanas (MANs), Redes de Área Ampla (WANs), entre outras.&lt;br&gt;Cada uma dessas categorias tem características distintas e é utilizada para diferentes tipos de aplicações e abientes.&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="460" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="MAZj7-Cw5p4Za4I1SEBb-50" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-190" width="280" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="MAZj7-Cw5p4Za4I1SEBb-53" value="&lt;h1 style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Tipos de Redes e suas variações&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;&quot;&gt;&lt;b&gt;Atualmente existem diferentes tipos de redes, como&amp;nbsp;&lt;span style=&quot;background-color: rgb(211, 227, 253); color: rgb(4, 12, 40); font-family: &amp;quot;Google Sans&amp;quot;, arial, sans-serif;&quot;&gt;redes cabeadas, redes sem fio, redes locais, redes externas, redes virtuais privativas entre outros tipos&lt;/span&gt;&lt;span style=&quot;color: rgb(32, 33, 36); font-family: &amp;quot;Google Sans&amp;quot;, arial, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;. Nomenclaturas como LAN, MAN, WLAN, WMAN, WWAN, SAN e PAN geralmente se fundem em apenas dois conceitos: redes locais e redes remotas.&lt;/span&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="81.25" y="-180" width="250" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="MAZj7-Cw5p4Za4I1SEBb-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MAZj7-Cw5p4Za4I1SEBb-56" target="MAZj7-Cw5p4Za4I1SEBb-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MAZj7-Cw5p4Za4I1SEBb-56" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="-420" width="220" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="MAZj7-Cw5p4Za4I1SEBb-57" value="&lt;h1&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Topologias de Redes e suas variações.&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;ul style=&quot;margin: 0px; padding: 0px; color: rgb(32, 33, 36); font-family: &amp;quot;Google Sans&amp;quot;, arial, sans-serif; background-color: rgb(255, 255, 255);&quot; class=&quot;i8Z77e&quot;&gt;&lt;li style=&quot;margin: 0px 0px 4px; padding: 0px; list-style-type: disc;&quot; class=&quot;TrT0Xe&quot;&gt;&lt;b&gt;Topologia&lt;/b&gt;&amp;nbsp;estrela.&lt;/li&gt;&lt;li style=&quot;margin: 0px 0px 4px; padding: 0px; list-style-type: disc;&quot; class=&quot;TrT0Xe&quot;&gt;&lt;b&gt;Topologia&lt;/b&gt;&amp;nbsp;barramento.&lt;/li&gt;&lt;li style=&quot;margin: 0px 0px 4px; padding: 0px; list-style-type: disc;&quot; class=&quot;TrT0Xe&quot;&gt;&lt;b&gt;Topologia&lt;/b&gt;&amp;nbsp;anel.&lt;/li&gt;&lt;li style=&quot;margin: 0px 0px 4px; padding: 0px; list-style-type: disc;&quot; class=&quot;TrT0Xe&quot;&gt;&lt;b&gt;Topologia&lt;/b&gt;&amp;nbsp;árvore.&lt;/li&gt;&lt;li style=&quot;margin: 0px 0px 4px; padding: 0px; list-style-type: disc;&quot; class=&quot;TrT0Xe&quot;&gt;&lt;b&gt;Topologia&lt;/b&gt;&amp;nbsp;malha.&lt;/li&gt;&lt;li style=&quot;margin: 0px 0px 4px; padding: 0px; list-style-type: disc;&quot; class=&quot;TrT0Xe&quot;&gt;&lt;b&gt;Topologia&lt;/b&gt;&amp;nbsp;híbrida.&lt;/li&gt;&lt;/ul&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="-420" width="190" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="MAZj7-Cw5p4Za4I1SEBb-37" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.haikan.com.br/blogimag/haikan-topologia-de-redes-11-12.jpg;" vertex="1" parent="1">
+          <mxGeometry x="110" y="-440" width="330" height="173.25" as="geometry" />
+        </mxCell>
+        <mxCell id="MAZj7-Cw5p4Za4I1SEBb-61" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="80" y="650" width="220" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="MAZj7-Cw5p4Za4I1SEBb-62" value="&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;Itens de Rede&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/h1&gt;&lt;h1&gt;&lt;p style=&quot;border-color: var(--border-color); font-size: 12px; font-weight: 400;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;HUB:&amp;nbsp;Um hub de rede é um repetidor de dados, isso&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;significa que esse equipamento apenas transmite&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;dados pela infraestrutura física existente, enviando as&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;mensagens recebidas para todos os outros&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;dispositivos conectados.&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); font-size: 12px; font-weight: 400;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;SWITCH:&amp;nbsp;Switch é um comutador que pode segmentar a rede&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;física em várias LANs lógicas conhecidas como VLANs,&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;e é capaz de dividir um único domínio de transmissão&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;em vários segmentos.&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); font-size: 12px; font-weight: 400;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;ROTEADOR:&amp;nbsp;O roteador é, por sua vez, uma espécie de pequeno&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;computador programado para manipular e rotear o tráfego&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;de dados entre dispositivos e redes.&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/b&gt;&lt;/p&gt;&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="95" y="660" width="190" height="420" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
